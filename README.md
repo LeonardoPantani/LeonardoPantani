@@ -2,5 +2,5 @@
 
 Currently studying CS @ Università di Pisa
 
-- hobbies: tennis, hiking, biking MTB, volleyball, programming
+- hobbies: tennis, hiking, biking MTB, volleyball, programming, red teaming
 - websites: WIP
